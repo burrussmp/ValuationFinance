@@ -1,0 +1,23 @@
+{
+  "name": "valuationfinance",
+  "version": "1.0.0",
+  "description": "Valuation Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burrussmp/ValuationFinance.git"
+  },
+  "author": "M. Burruss",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burrussmp/ValuationFinance/issues"
+  },
+  "homepage": "https://github.com/burrussmp/ValuationFinance#readme",
+  "dependencies": {
+    "mathjs": "^6.6.4"
+  }
+}
